@@ -1,0 +1,27 @@
+{
+  "name": "bestbuyacccreator",
+  "version": "0.0.1",
+  "description": "Create bestbuy accs automatically using free proxies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node --inspect-brk index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bisqet/bestbuy-acc-creator.git"
+  },
+  "author": "David Lukava",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bisqet/bestbuy-acc-creator/issues"
+  },
+  "homepage": "https://github.com/bisqet/bestbuy-acc-creator#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.0",
+    "node-xlsx": "^0.12.1",
+    "proxy-lists": "^1.16.0",
+    "puppeteer": "^1.9.0"
+  }
+}
