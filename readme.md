@@ -12,4 +12,4 @@ Be sure that u have Node.js installed ([download link](https://nodejs.org/en/dow
 6.  In command line or terminal run `node xlsxRes.js`
 7. ...Done results with each IP will be in `resultWithCerdentialsAndIPforEachAcc.xlsx` file:)
 ## Stranges
-Ye, script have a lot of stranges I know, just it not in my interests to continue work on it because it was part of freelance job. You can write me or in the [issues](https://github.com/bisqet/adscrapper/issues) to get feedback or to have talk about your case in which you need this script
+Ye, script have a lot of stranges I know, just it not in my interests to continue work on it because it was part of freelance job. You can write me or in the [issues](https://github.com/bisqet/adscrapper/issues) to get feedback or to have [talk](https://github.com/bisqet) about your case in which you need this script
